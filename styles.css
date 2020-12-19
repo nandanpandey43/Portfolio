@@ -111,6 +111,7 @@ hr {
 
 .section {
     padding: 2rem 0rem;
+    /* text-align: center; */
 }
 
 .section h2 {
@@ -119,6 +120,7 @@ hr {
 
 .section p{
     padding-left: 0.5rem;
+    /* text-align: center; */
 }
 
 .ow {
